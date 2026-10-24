@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=danikobaby1)](https://www.codewars.com/users/danikobaby1)
-[![HackerRank](https://hackerrank-badges.github.io/api?username=app_store01_10_1)](https://www.hackerrank.com/app_store01_10_1)
+[![HackerRank Stats](https://hackerrank-badges.github.io/api?username=app_store01_10_1)](https://www.hackerrank.com/app_store01_10_1)
