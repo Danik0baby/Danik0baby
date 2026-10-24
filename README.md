@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Codewars Stats](https://codewars-stats-ignacio-cuadra.vercel.app/?username=danikobaby1)](https://www.codewars.com/users/danikobaby1)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-app__store01__10__1-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/app_store01_10_1)
-
-[![HackerRank app_store01_10_1](https://img.shields.io/badge/HackerRank-app__store01__10__1-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/app_store01_10_1)
+[![HackerRank danikobaby111](https://img.shields.io/badge/HackerRank-danikobaby111-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/danikobaby111)
