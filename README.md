@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - [![HackerRank Badge](https://img.shields.io/badge/HackerRank-app__store01__10__1-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/app_store01_10_1)
 - [![HackerRank danikobaby111](https://img.shields.io/badge/HackerRank-danikobaby111-2EC4B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/danikobaby111)
-- ![Сертификат хакатона](./CERT-20261014-D10BD025)
+- ![Сертификат хакатона](./CERT-20261014-D10BD025.png)
